@@ -1,1 +1,0 @@
-"Windows cannot open this file, the file contains advance javascript option"
