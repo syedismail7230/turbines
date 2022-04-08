@@ -1,1 +1,0 @@
-"your device is not compatible to run this file https://dev.mysql.com/"
